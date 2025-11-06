@@ -1,0 +1,41 @@
+[
+  {
+    "id": 1,
+    "title": "Intro to Game Design",
+    "description": "Learn the basics of game design and gamification for learning.",
+    "modules": [
+      {
+        "title": "Game Mechanics",
+        "exercises": [
+          { "question": "What is a game mechanic?", "type": "text" },
+          { "question": "Name one mechanic used in gamification.", "type": "text" }
+        ]
+      },
+      {
+        "title": "Player Motivation",
+        "exercises": [
+          { "question": "What motivates players?", "type": "text" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "JavaScript Basics",
+    "description": "Fundamentals of JavaScript for web development.",
+    "modules": [
+      {
+        "title": "Syntax and Variables",
+        "exercises": [
+          { "question": "What does var/let/const mean?", "type": "text" }
+        ]
+      },
+      {
+        "title": "Functions",
+        "exercises": [
+          { "question": "Write a function to add two numbers.", "type": "code" }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,9 @@
+{
+  "name": "gamified-elearning",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start:backend": "node backend/server.js",
+    "start:frontend": "cd frontend && npm start"
+  }
+}
